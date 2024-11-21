@@ -5,47 +5,48 @@
 
 ![1 1](https://github.com/user-attachments/assets/ef5b0b4c-4e5b-447c-ae3f-d34020e6f684)
 #
-![Screenshot 2024-11-20 095917](https://github.com/user-attachments/assets/c6a1f6f8-e33f-4851-a957-6082e7c770ba)
-![Screenshot 2024-11-20 120037](https://github.com/user-attachments/assets/208384bc-381e-4a79-8f8b-76b01a25df08)
+![1 2](https://github.com/user-attachments/assets/6bdd316e-c629-4edc-9abf-32990ca1646e)
+![1 3](https://github.com/user-attachments/assets/b5c83c4b-2014-4c32-abf7-16ac9f554e6a)
 #
 
 2. Change the default username and password to whatever you would like. I changed mine to simply 'admin' and 'password'. 
 
 - Ctrl S and exit the text file.
-- Type in 'exit' and hit enter to exit the Maria database.
 
-![Screenshot 2024-11-20 120412](https://github.com/user-attachments/assets/52e03715-c034-4e43-9b0b-5d95efa65895)
-![Screenshot 2024-11-20 120443](https://github.com/user-attachments/assets/8f343e61-a609-4e97-8b5d-51d3f781f06e)
+![2 1](https://github.com/user-attachments/assets/0b23cf1c-1fab-4576-8c4c-facf6c794e51)
+![2 2](https://github.com/user-attachments/assets/34783c49-88f6-4c92-8daa-4e311195add7)
 #
 
 3. Next we will need to configure the database. Once it asks you to 'enter password', a password has NOT been set up yet, so we can just hit the ENTER key.
 
-![Screenshot 2024-11-20 120636](https://github.com/user-attachments/assets/517513da-7afe-46d1-aaf6-b810fefba76c)
-![Screenshot 2024-11-20 121656](https://github.com/user-attachments/assets/be8cc18a-1986-4365-9e72-23f0635abde6)
+- Once you have entered all 3 commands in MariaDB, type in 'exit' and hit enter to exit the MariaDB.
+
+![3 1](https://github.com/user-attachments/assets/f38eab48-b7fd-4691-855a-bc1efd518a35)
+![3 2](https://github.com/user-attachments/assets/c908468f-ca9d-4ba7-91cf-25ced00d6c9e)
 #
 
 4. Now that we have a database setup, we will need to configure an HTTP web server. 
 
-![Screenshot 2024-11-20 122233](https://github.com/user-attachments/assets/d6bf8aaa-7812-4210-aa11-4abaf89e0190)
+![4](https://github.com/user-attachments/assets/72cf6a36-b851-48c8-bb26-1b08fd6677e6)
 #
 
-5. We will also need to make some configurations on a php file. Follow the terminal commands, once the php file opens, Crtl F and search for 'fopen' and make sure both settings are ON. Crtl S and exit the php file.
+5. We will also need to make some configurations on apache2's php file. 
+Follow the terminal commands:
+ - Select the newest version update. For me, it was version 8.2.
+ - Once the php file opens, Ctrl F and search for 'fopen' and make sure both settings are 'ON'. 
+ - Ctrl S and exit the php file.
 
-![Screenshot 2024-11-20 122546](https://github.com/user-attachments/assets/9cd913e7-eac3-4418-bb1e-481763005749)
+![5 1](https://github.com/user-attachments/assets/7e501a0d-f024-4898-b188-a8f7adea97e1)
 #
 
 6. Restart the apache2 webserver.
 
-![Screenshot 2024-11-20 122718](https://github.com/user-attachments/assets/2e400de6-3fc4-479b-b98b-84898e4e9afb)
+![6 2](https://github.com/user-attachments/assets/2789a67f-93ec-4a00-85b1-385d6b2ffd52)
 #
 
 7. Last step is to go to your web browser and enter '127.0.0.1/DVWA' into the search bar and you should see the DVWA login page. Log in and click the 'restart the web page' button and it is now ready to be used in Kali Linux!
 
-![Screenshot 2024-11-20 122741](https://github.com/user-attachments/assets/443b344f-39cb-4c3a-ae4e-6634cf5480b0)
-![Screenshot 2024-11-20 122833](https://github.com/user-attachments/assets/e7f0a440-7562-40e6-abfc-f0d394ace58f)
+![7 1](https://github.com/user-attachments/assets/eeed0a97-f7b1-4fb7-abb3-eba64c8109c8)
+![7 2](https://github.com/user-attachments/assets/72e33e5a-b512-48fd-a74e-8069f1c093cc)
 
 
-
-
-
-   
