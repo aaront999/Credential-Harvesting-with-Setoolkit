@@ -9,9 +9,10 @@
 ![1 3](https://github.com/user-attachments/assets/97be5489-cbd8-4f1c-b133-7a4b15554537)
 #
 
-3. Next, I copied the URL of the real website I intend to fabricate as legitimate in order to create a convincing replica for the credential harvesting attack.
+3. Next, I copied the URL of the website I intend to fabricate as legitimate, in this case: hackthissite.org, in order to create a convincing replica for the credential harvesting attack.
 
 ![2 01](https://github.com/user-attachments/assets/af80ab93-4830-4645-afea-6c3c6fca0ae5)
+#
 
 4. Then, I entered the IP address or domain name of the server where the spoofed website will be hosted, which, in my case, is the Kali Virtual Machine's IP address: 128.0.0.1. 
 - After that, we need to paste the URL of the legitimate website in the command to initiate the cloning process.
@@ -19,7 +20,10 @@
 ![2 1](https://github.com/user-attachments/assets/02b2e694-97cd-43f3-849d-554c26097221)
 #
 
-5. After the cloning process is complete, I open a new browser tab and enter the spoofed website address, 128.0.0.1, in the search bar. The cloned website is now ready to be used as a credential harvester. I tested the cloned page by entering fake credentials and successfully received the expected output. In a real attack scenario, the attacker would now have access to the victim’s credentials, allowing them to log in and potentially perform malicious activities without the victim ever even realizing it!
+5. After the cloning process is complete, I open a new browser tab and enter the spoofed website's domain name/ip, '128.0.0.1' in the search bar. 
+ - The cloned website is now ready to be used as a credential harvester.  
+ - Which we can now test the webpage by inputting fake credentials and successfully capture the expected data, verifying the effectiveness of the attack. 
+ - In a real attack scenario, the attacker would now have access to the victim’s credentials, allowing them to log in and potentially perform malicious activities without the victim ever even realizing it!
  
 ![3 1](https://github.com/user-attachments/assets/7c00c6b7-16d1-47c0-a4a8-5ba317810c8c)
 ![3 2](https://github.com/user-attachments/assets/680f4de5-c3b6-4afd-a909-92e88db302ea)
