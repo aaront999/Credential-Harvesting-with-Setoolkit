@@ -24,7 +24,7 @@
 ![3 2](https://github.com/user-attachments/assets/680f4de5-c3b6-4afd-a909-92e88db302ea)
 #
 
-6. I tested this method on another intentionally vulnerable website and successfully received the expected output as well. Notice that both webpages looks identitical to the legitimate website, making it highly convincing. When combined with a phishing email campaign, this attack technique can be an effective way to socially engineer a victim.
+6. I tested this method on another intentionally vulnerable website and successfully received the expected output as well. Notice that both cloned webpages look identical to their legitimate counterpart, making it highly convincing to an unsuspecting user. When combined with a phishing email campaign, this attack technique can be an effective way to socially engineer a victim.
 
 ![4 01](https://github.com/user-attachments/assets/17313ac1-2734-4057-a676-4d2f9e20cf9a)
 ![4 02](https://github.com/user-attachments/assets/191325ef-23fb-4013-ae57-d13aefb86dd4)
