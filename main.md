@@ -9,11 +9,12 @@
 ![1 3](https://github.com/user-attachments/assets/97be5489-cbd8-4f1c-b133-7a4b15554537)
 #
 
-3. Next, I copied the URL of the legitimate website I intend to mimic.
+3. Next, I copied the URL of the real website I intend to fabricate as legitimate in order to create a convincing replica for the credential harvesting attack.
 
 ![2 01](https://github.com/user-attachments/assets/af80ab93-4830-4645-afea-6c3c6fca0ae5)
 
-4. Then, I entered the IP address or domain name of the server where the fake website will be hosted, which, in my case, is the Kali Virtual Machine's IP address: 128.0.0.1. After that, I pasted the URL of the legitimate website to initiate the cloning process.
+4. Then, I entered the IP address or domain name of the server where the spoofed website will be hosted, which, in my case, is the Kali Virtual Machine's IP address: 128.0.0.1. 
+- After that, we need to paste the URL of the legitimate website in the command to initiate the cloning process.
 
 ![2 1](https://github.com/user-attachments/assets/02b2e694-97cd-43f3-849d-554c26097221)
 #
