@@ -44,21 +44,36 @@
 
 # Part 2: Simulating a Credential Harvesting Attack
  
-7. Now that I have validated the reliability of this tool, I wanted to explore its application in a controlled, ethical scenario to simulate an attack flow for educational purposes. My goal was to better understand how attackers might retrieve credentials, allowing me to develop stronger countermeasures and security awareness strategies for protecting users against such threats.
+#### Now that I have validated the reliability of this tool, I wanted to explore its application in a controlled, ethical scenario to simulate an attack flow for educational purposes. My goal was to better understand how attackers might retrieve credentials, allowing me to develop stronger countermeasures and security awareness strategies for protecting users against such threats.
+#
 
+7. First I began by crafting a fake Google Support email.
 
+![1 1](https://github.com/user-attachments/assets/dd8a6ce5-1748-44ae-b28f-246654781a24)
+![1 2](https://github.com/user-attachments/assets/e19131b3-eff2-4953-acc0-de2e637f5c20)
+![1 3](https://github.com/user-attachments/assets/98fc8272-68ef-46d9-808f-e7b6fb6835cb)
+#
 
+8. Once I have my fake Google Support email set up, I created a phishing email to closely resemble something Google might send to any user. There are no links for the victim to click into yet, but I will be making that next. 
 
+![2 1](https://github.com/user-attachments/assets/8b26aae8-9222-45da-b31b-256b43d9c149)
+#
 
+9. I then went to dns.checker.org to convert my attack box's ip address into decimal form to make our malicious link look more legitimate to an unsuspecting user. 
 
+![3 1](https://github.com/user-attachments/assets/1f5b0752-1d19-4cb9-a228-130ab7cf6979)
+#
 
+10. Now our malicious link is ready: http://google.com@2147483649. By putting the @ symbol instead of a slash, when searched in a browser, it will ignore everything before the @ symbol and will be re-directed to my spoofed site's login page. 
 
+![3 2](https://github.com/user-attachments/assets/50369e9a-a248-479e-aba5-d5765b4a2be0)
+#
 
+11. 
 
-
-
-
-
+![4 1](https://github.com/user-attachments/assets/f570d998-abd2-4d17-b0f2-cb8cfa82d69c)
+![4 2](https://github.com/user-attachments/assets/94adbecf-4e0c-44c9-91c0-061935ce13fc)
+#
 
 
 
