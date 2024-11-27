@@ -64,7 +64,7 @@
 ![3 1](https://github.com/user-attachments/assets/1f5b0752-1d19-4cb9-a228-130ab7cf6979)
 #
 
-10. Now our malicious link is ready: http://google.com@2147483649. By putting the @ symbol instead of a slash, when searched in a browser, it will ignore everything before the @ symbol and will be re-directed to my spoofed site's login page. 
+10. Now our malicious link is ready to be used: hxxp[://]google[.]com@2147483649. By putting the @ symbol instead of a slash, when searched in a browser, it will ignore everything before the @ symbol and will re-direct the victim to my spoofed website's login page. 
 
 ![3 2](https://github.com/user-attachments/assets/50369e9a-a248-479e-aba5-d5765b4a2be0)
 #
