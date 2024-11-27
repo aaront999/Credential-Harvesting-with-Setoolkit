@@ -64,16 +64,26 @@
 ![3 1](https://github.com/user-attachments/assets/1f5b0752-1d19-4cb9-a228-130ab7cf6979)
 #
 
-10. Now our malicious link is ready to be used: hxxp[://]google[.]com@2147483649. By putting the @ symbol instead of a slash, when searched in a browser, it will ignore everything before the @ symbol and will re-direct the victim to my spoofed website's login page. 
+10. Now our malicious link is ready to be used: hxxp[://]google[.]com@2147483649. 
+- By putting the @ symbol instead of a slash, when searched in a browser, it will ignore everything before the @ symbol and will re-direct the victim to my spoofed website's login page. 
 
 ![3 2](https://github.com/user-attachments/assets/50369e9a-a248-479e-aba5-d5765b4a2be0)
 #
 
-11. 
+11. I edited the hyperlinks of my fake Google Support email and 'Google Support login page' to my spoofed website's address so that in the event that a victim is fooled into thinking this email is legitimate, they would be redirected to the spoofed site and any activity that happens will be logged and received on my attack box's terminal. 
 
-![4 1](https://github.com/user-attachments/assets/f570d998-abd2-4d17-b0f2-cb8cfa82d69c)
-![4 2](https://github.com/user-attachments/assets/94adbecf-4e0c-44c9-91c0-061935ce13fc)
+![4 1](https://github.com/user-attachments/assets/3f9dff36-1ca6-43b0-89dd-77460112f44c)
+![4 2](https://github.com/user-attachments/assets/2772ae7e-ee12-4bdb-9a98-6650c9ddffdf)
 #
+
+12. Once I set up the required configurations in Setoolkit and the tool is actively listening for input, my phishing email is prepared and ready to be sent.
+
+![5 2](https://github.com/user-attachments/assets/8cee8439-ec9d-4957-81f8-32e3ed549072)
+![4 3](https://github.com/user-attachments/assets/251cc5e4-dd44-43ee-992e-ee3dbc5aab8d)
+
+13. If the victim falls for this phishing attack and clicks on one of the malicious links, they are redirected to my spoofed website. Upon entering their credentials, the attack is successful, and their information is captured.
+
+![6 1](https://github.com/user-attachments/assets/564a7076-5199-437f-bc98-20ebdb8570e9)
 
 
 
