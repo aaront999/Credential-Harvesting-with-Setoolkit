@@ -1,8 +1,10 @@
 #
 #
-## **<em>NOTE: I Will Be Expanding This Project. Currently Work-In Progress on Documentation</em>**.
+# **<em>NOTE: Currently Work-In Progress on Documentation</em>**.
 #
 #
+
+# Part 1: Understanding Setoolkit’s Credential Harvester
 
 1. I started by opening the linux terminal and ran the command 'sudo setoolkit' to launch the Social Engineering Toolkit (SET).
 
@@ -36,7 +38,29 @@
 
 ![4 01](https://github.com/user-attachments/assets/17313ac1-2734-4057-a676-4d2f9e20cf9a)
 ![4 02](https://github.com/user-attachments/assets/191325ef-23fb-4013-ae57-d13aefb86dd4)
-#
 ![5 1](https://github.com/user-attachments/assets/f6371a6c-68bb-4bda-88c8-9ffabac701a4)
 ![5 2](https://github.com/user-attachments/assets/f4bd8ea8-28e1-4654-b4af-af1bbaea39a7)
 #
+
+# Part 2: Simulating a Credential Harvesting Attack
+ 
+7. Now that I have validated the reliability of this tool, I wanted to explore its application in a controlled, ethical scenario to simulate an attack flow for educational purposes. My goal was to better understand how attackers might retrieve credentials, allowing me to develop stronger countermeasures and security awareness strategies for protecting users against such threats.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
