@@ -1,7 +1,8 @@
 ## Credential Harvesting with Setoolkit
 
 ### Project Overview:
-In this project, I will create a spoofed website login page that mimics the hackthissite.org website to simulate credential harvesting, also known as pharming. This attack technique involves redirecting a website's traffic to a fake site and installing a malicious program on the victim's computer to gain access or even mimic a financial institution for monetary gain. I will use tools such as the Social-Engineer Toolkit (Setoolkit) to execute the simulation.
+In this project, I created spoofed login pages replicating legitimate websites to demonstrate the functionality of Setoolkit. Furthermore, to extend this attack simulation I replicated Google’s login page and crafted a fake Google Support email to showcase the methods and risks involved in real-world credential harvesting attacks, also known as pharming. 
+- This attack technique involves redirecting a website's traffic to a fake site and installing a malicious program on the victim's computer to gain access or even mimic a financial institution for monetary gain.
 
 ### <ins>Disclaimer</ins>: This project is conducted solely for educational and research purposes within a controlled environment. Unauthorized use of these techniques against real businesses or individuals is illegal and unethical.
 
