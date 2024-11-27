@@ -73,12 +73,12 @@
 
 12. Once I set up the required configurations in Setoolkit and the tool is actively listening for input, my phishing email is prepared and ready to be sent.
 
-![5 2](https://github.com/user-attachments/assets/8cee8439-ec9d-4957-81f8-32e3ed549072)
-![4 3](https://github.com/user-attachments/assets/251cc5e4-dd44-43ee-992e-ee3dbc5aab8d)
+![4 3](https://github.com/user-attachments/assets/9d37bc49-3847-444d-bbea-50288f95bc5b)
 #
 
 13. If the victim falls for this phishing attack and clicks on one of the malicious links, they are redirected to my spoofed website. Upon entering their credentials, the attack is successful, and their activity and information is captured.
 
+![6 01](https://github.com/user-attachments/assets/f735485c-1f42-4c47-84f6-7b36df44dbab)
 ![6 1](https://github.com/user-attachments/assets/564a7076-5199-437f-bc98-20ebdb8570e9)
 ![6 2](https://github.com/user-attachments/assets/e5c6b8bb-735f-4526-a6ba-cb12e9c2dbff)
 #
