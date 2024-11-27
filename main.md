@@ -1,9 +1,3 @@
-#
-#
-# **<em>NOTE: Currently Work-In Progress on Documentation</em>**.
-#
-#
-
 # Part 1: Understanding Setoolkit’s Credential Harvester
 
 1. I started by opening the linux terminal and ran the command 'sudo setoolkit' to launch the Social Engineering Toolkit (SET).
@@ -54,7 +48,8 @@
 ![1 3](https://github.com/user-attachments/assets/98fc8272-68ef-46d9-808f-e7b6fb6835cb)
 #
 
-8. Once I have my fake Google Support email set up, I created a phishing email to closely resemble something Google might send to any user. There are no links for the victim to click into yet, but I will be making that next. 
+8. Once I have my fake Google Support email set up, I created a phishing email to closely resemble something Google might send to any user. 
+- There are no links for the victim to click into yet, but I will be making that next. 
 
 ![2 1](https://github.com/user-attachments/assets/8b26aae8-9222-45da-b31b-256b43d9c149)
 #
@@ -64,7 +59,7 @@
 ![3 1](https://github.com/user-attachments/assets/1f5b0752-1d19-4cb9-a228-130ab7cf6979)
 #
 
-10. Now our malicious link is ready to be used: hxxp[://]google[.]com@2147483649. 
+10. Now our malicious domain is ready to be used: hxxp[://]google[.]com@2147483649. 
 - By putting the @ symbol instead of a slash, when searched in a browser, it will ignore everything before the @ symbol and will re-direct the victim to my spoofed website's login page. 
 
 ![3 2](https://github.com/user-attachments/assets/50369e9a-a248-479e-aba5-d5765b4a2be0)
@@ -80,12 +75,10 @@
 
 ![5 2](https://github.com/user-attachments/assets/8cee8439-ec9d-4957-81f8-32e3ed549072)
 ![4 3](https://github.com/user-attachments/assets/251cc5e4-dd44-43ee-992e-ee3dbc5aab8d)
+#
 
-13. If the victim falls for this phishing attack and clicks on one of the malicious links, they are redirected to my spoofed website. Upon entering their credentials, the attack is successful, and their information is captured.
+13. If the victim falls for this phishing attack and clicks on one of the malicious links, they are redirected to my spoofed website. Upon entering their credentials, the attack is successful, and their activity and information is captured.
 
 ![6 1](https://github.com/user-attachments/assets/564a7076-5199-437f-bc98-20ebdb8570e9)
-
-
-
-
-
+![6 2](https://github.com/user-attachments/assets/e5c6b8bb-735f-4526-a6ba-cb12e9c2dbff)
+#
